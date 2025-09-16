@@ -1,4 +1,4 @@
-# SIMULACI-NT1
+# SIMULACIÓN_UNIDAD1
 Trabajos de la primera unidad, correspondientes a la materia de Simulación.
 Trabajo elaborado 100% en Python.
 Elaborado por los alumnos del Tecnológico Superior de Valladolid:
